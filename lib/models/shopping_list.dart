@@ -27,10 +27,4 @@ class ShoppingList with ChangeNotifier {
     ));
     notifyListeners();
   }
-
-
-  // void incrementCounter() {
-  //   value++;
-  //   notifyListeners();
-  // }
 }
